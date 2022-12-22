@@ -1,6 +1,7 @@
 # ATM-CARD-NUMBER-CHECKER
 
-About this Project
+# ABOUT THIS PROJECT
+
 • This Program do check and tell whether the Entered Credit Card Number exists or Not.
 
 WORKS ON LUHN'S ALGORITHM
