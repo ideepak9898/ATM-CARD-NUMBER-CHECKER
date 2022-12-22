@@ -3,10 +3,11 @@
 About this Project
 • This Program do check and tell whether the Entered Credit Card Number exists or Not.
 
---Works on Luhn's Algo
+WORKS ON LUHN'S ALGORITHM
+
 • This Program's Checking Feature is based on the Luhn's Algo.
 
-Can Also Tell Your Card's Organisation if exist
+CAN ALSO TELL YOUR CARD'S ORGANISATION IF EXISTS
 • Visa
 
 • Master Card
